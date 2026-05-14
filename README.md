@@ -140,7 +140,7 @@ make clean
 | Navigate menus / select target | `↑` / `↓` / `←` / `→` or `W` / `A` / `S` / `D` |
 | Confirm selection | `Enter` |
 | Back / Cancel | `Escape` |
-| Quick party size select | `1` / `2` / `3` / `4` |
+| Player Select for Eclipse Relic | `1` / `2` / `3` / `4` |
 
 ---
 
