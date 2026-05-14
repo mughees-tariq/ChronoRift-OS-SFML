@@ -23,19 +23,6 @@ A multi-process turn-based tactical RPG built in C++ with SFML, developed as a s
 ![Deadlock Resolution](Images/deadlockResolvedScreen.jpeg)
 *DeadlockMonitor detecting and resolving a circular artifact wait*
 
-<p align="center">
-  <img src="Images/mainMenu.png" width="49%" />
-  <img src="Images/playerActionScreenWithUltimateOption.jpeg.jpeg" width="49%" />
-</p>
-<p align="center">
-  <img src="Images/playerActionScreenWithUltimate.jpeg" width="49%" />
-  <img src="Images/weaponDropScreen.jpeg" width="49%" />
-</p>
-<p align="center">
-  <img src="Images/deadlockResolvedScreen.jpeg" width="49%" />
-  <img src="Images/victoryScreen.jpeg" width="49%" />
-</p>
-
 ---
 
 ## 🏗️ Architecture Overview
