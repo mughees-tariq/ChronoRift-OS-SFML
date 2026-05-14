@@ -1,6 +1,6 @@
 # Chrono Rift ⚔️
 
-*Every OS concept you studied — processes, threads, shared memory, semaphores, signals, deadlock — now working together inside a real game.*
+*Every OS concept you studied (processes, threads, shared memory, semaphores, signals, deadlock) now working together inside a real game.*
 
 A multi-process turn-based tactical RPG built in C++ with SFML, developed as a semester project for CS 2006 - Operating Systems at FAST-NUCES. Lead your party of heroes against waves of enemies where every mechanic under the hood is a live, running OS concept.
 
@@ -26,7 +26,7 @@ Chrono Rift runs as **three separate processes**, each with a distinct responsib
 - **Human Interfacing Process (HIP)** — Handles all keyboard input from the player. Writes chosen actions into shared memory for the Arbiter to resolve.
 - **Automated Strategic Process (ASP)** — Manages all enemy decision-making. Each enemy runs in its own dedicated thread inside the ASP; all threads run concurrently but only the one granted a turn by the Arbiter acts.
 
-All three processes communicate exclusively through a **single POSIX shared memory segment** — no pipes anywhere.
+All three processes communicate exclusively through a **single POSIX shared memory segment**, no pipes anywhere.
 
 ---
 
@@ -137,7 +137,7 @@ make clean
 
 | Action | Key |
 |---|---|
-| Navigate menus / select target | `↑` / `↓` / `←` / `→` or `W` / `A` / `S` |
+| Navigate menus / select target | `↑` / `↓` / `←` / `→` or `W` / `A` / `S` / `D` |
 | Confirm selection | `Enter` |
 | Back / Cancel | `Escape` |
 | Quick party size select | `1` / `2` / `3` / `4` |
@@ -147,8 +147,6 @@ make clean
 ## 👨‍💻 Developers
 
 **Muhammad Mughees Tariq Khawaja** — [LinkedIn](https://linkedin.com/in/mugheestariq)
-
-**Muhammad Mustafa**
 
 ---
 
