@@ -1,0 +1,28 @@
+//////////////////////////////////////////////////////////////////////////////////////////
+
+#include "aspManager.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+static const int rollNumber = 245826;
+
+int main() {
+    printf("[ASP] starting\n");
+
+    ASPManager asp(rollNumber);
+
+    if (!asp.initialize()) {
+        fprintf(stderr, "[ASP] init failed\n");
+        return 1;
+    }
+
+    asp.run();
+    asp.cleanup();
+
+    printf("[ASP] exited cleanly\n");
+    return 0;
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////
