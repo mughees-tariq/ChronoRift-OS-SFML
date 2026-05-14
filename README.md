@@ -15,16 +15,16 @@ A multi-process turn-based tactical RPG built in C++ with SFML, developed as a s
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/mainMenuScreen.png" width="49%" />
-  <img src="images/wave2Screen.png" width="49%" />
+  <img src="Images/mainMenuScreen.png" width="49%" />
+  <img src="Images/wave2Screen.png" width="49%" />
 </p>
 <p align="center">
-  <img src="images/playerActionScreenWithUltimate.png" width="49%" />
-  <img src="images/weaponDropScreen.png" width="49%" />
+  <img src="Images/playerActionScreenWithUltimate.png" width="49%" />
+  <img src="Images/weaponDropScreen.png" width="49%" />
 </p>
 <p align="center">
-  <img src="images/deadlockResolvedScreen.png" width="49%" />
-  <img src="images/victoryScreen.png" width="49%" />
+  <img src="Images/deadlockResolvedScreen.png" width="49%" />
+  <img src="Images/victoryScreen.png" width="49%" />
 </p>
 
 ---
