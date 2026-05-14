@@ -23,6 +23,21 @@ A multi-process turn-based tactical RPG built in C++ with SFML, developed as a s
 ![Deadlock Resolution](Images/deadlockResolvedScreen.jpeg)
 *DeadlockMonitor detecting and resolving a circular artifact wait*
 
+![Player Action Selection](Images/playerActionScreenWithoutUltimateOption.jpeg)
+*Player choosing an action during their turn*
+
+![Artifact Pickup](Images/artifactPickupScreen.jpeg)
+*Picking up an exclusive artifact — triggering the resource allocation system*
+
+![Weapon Drop](Images/weaponDropScreen.jpeg)
+*Enemy drops a weapon on death — inventory allocator finds a contiguous block*
+
+![Enemy Stunned](Images/enemyStunnedScreen.jpeg)
+*SIGUSR1 delivered — enemy process paused for 3 seconds*
+
+![Victory Screen](Images/victoryScreen.jpeg)
+*Victory — 10 enemies defeated across all waves*
+
 ---
 
 ## 🏗️ Architecture Overview
