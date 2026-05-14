@@ -8,7 +8,7 @@ A multi-process turn-based tactical RPG built in C++ with SFML, developed as a s
 
 ## 📺 Demo Video
 
-▶️ **Watch the gameplay video:** [YouTube](#)
+▶️ **Watch the gameplay video:** [YouTube](https://www.youtube.com/watch?v=ioIQqOnaFug)
 
 ---
 
