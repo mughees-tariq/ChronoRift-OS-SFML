@@ -14,6 +14,15 @@ A multi-process turn-based tactical RPG built in C++ with SFML, developed as a s
 
 ## 📸 Screenshots
 
+![Main Menu](Images/mainMenu.png)
+*Main Menu*
+
+![Battle Scene](Images/enemyTargetingScreen.jpeg)
+*Turn-based combat with stamina scheduling*
+
+![Deadlock Resolution](Images/deadlockResolvedScreen.jpeg)
+*DeadlockMonitor detecting and resolving a circular artifact wait*
+
 <p align="center">
   <img src="Images/mainMenu.png" width="49%" />
   <img src="Images/playerActionScreenWithUltimateOption.jpeg.jpeg" width="49%" />
