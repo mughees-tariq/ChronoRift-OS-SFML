@@ -15,8 +15,8 @@ A multi-process turn-based tactical RPG built in C++ with SFML, developed as a s
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Images/mainMenuScreen.jpeg" width="49%" />
-  <img src="Images/wave2Screen.jpeg" width="49%" />
+  <img src="Images/mainMenu.png" width="49%" />
+  <img src="Images/playerActionScreenWithUltimateOption.jpeg.jpeg" width="49%" />
 </p>
 <p align="center">
   <img src="Images/playerActionScreenWithUltimate.jpeg" width="49%" />
